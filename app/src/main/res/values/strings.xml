@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Debug Plugin</string>
+    <string name="main_activity_text">一个简单的 MVVM 代码示例项目,供 Quick-Create-Android-Template 插件开发调试</string>
+</resources>
